@@ -1,0 +1,44 @@
+"*":
+  core:
+    disabledPackages: [
+      "remote-edit"
+    ]
+  editor:
+    fontSize: 12
+    invisibles: {}
+    showIndentGuide: true
+    softWrapAtPreferredLineLength: true
+    tabType: "soft"
+  "exception-reporting":
+    userId: "8bea5fc9-44dc-d8e2-100d-af411858b607"
+  "git-diff":
+    showIconsInEditorGutter: true
+  "git-status": {}
+  "highlight-line":
+    enableBackgroundColor: false
+    enableUnderline: true
+  "japanese-wrap":
+    characterWidth: {}
+  minimap:
+    plugins:
+      bookmarks: true
+      bookmarksDecorationsZIndex: 0
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      "minimap-hide": true
+      "minimap-hideDecorationsZIndex": 0
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+  "remote-atom":
+    keep_alive: true
+    launch_at_startup: true
+  "remote-edit": {}
+  "tabs-to-spaces":
+    onSave: "untabify"
+  welcome:
+    showOnStartup: false
+".ini.source":
+  editor:
+    softWrapAtPreferredLineLength: false
