@@ -28,6 +28,7 @@ cask "slack"
 cask "sourcetree"
 cask "stationtv-link"
 cask "transmit"
+cask "dash"
 mas "そら案内", id: 599799247
 mas "Pages", id: 409201541
 mas "Keynote", id: 409183694
@@ -40,3 +41,10 @@ mas "Xcode", id: 497799835
 mas "Color Picker", id: 641027709
 mas "CheatSheet", id: 529456740
 mas "Display Menu", id: 549083868
+mas "SiteSucker", id: 442168834
+mas "Sim Daltonism", id: 693112260
+mas "QREncoder", id: 452695239
+mas "MemoryFreer", id: 451682720
+mas "JPEGmini Lite", id: 525742250
+mas "iMazing HEIC Converter", id: 1292198261
+mas "Gifted", id: 771955779
