@@ -41,6 +41,7 @@ mas "Pages", id: 409201541
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
 mas "Kindle", id: 405399194
+mas "LadioCast", id: 411213048
 mas "PopClip", id: 445189367
 mas "Translate Tab", id: 458887729
 mas "TweetDeck", id: 485812721
