@@ -17,6 +17,7 @@ cask "amazon-photos"
 cask "appcleaner"
 cask "blackhole"
 cask "clipy"
+cask "daisydisk"
 cask "dash"
 cask "dropbox"
 cask "firefox"
@@ -29,11 +30,11 @@ cask "handbrake"
 cask "karabiner-elements"
 cask "media-converter"
 cask "notion"
-cask "ripit"
 cask "sketch"
 cask "sourcetree"
 cask "sketch-toolbox"
 cask "skitch"
+cask "slack"
 cask "ssh-tunnel-manager"
 cask "stationtv-link"
 cask "the-unarchiver"
@@ -44,17 +45,12 @@ mas "Cleaner-App", id: 1013897218
 mas "Color Picker", id: 641027709
 mas "Display Menu", id: 549083868
 mas "Evernote", id: 406056744
-mas "GarageBand", id: 682658836
 mas "Gifted", id: 771955779
 mas "iMazing HEIC Converter", id: 1292198261
-mas "iMovie", id: 408981434
 mas "JPEGmini Lite", id: 525742250
-mas "Keynote", id: 409183694
 mas "Kindle", id: 405399194
 mas "LadioCast", id: 411213048
 mas "MemoryFreer", id: 451682720
-mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
 mas "PopClip", id: 445189367
 mas "QREncoder", id: 452695239
 mas "Sim Daltonism", id: 693112260
