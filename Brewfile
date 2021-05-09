@@ -62,5 +62,6 @@ mas "TweetDeck", id: 485812721
 mas "Wayback Machine", id: 1472432422
 mas "WinArchiver Lite", id: 414855915
 mas "Xcode", id: 497799835
+mas "Yoink", id: 457622435
 mas "そら案内", id: 599799247
 mas "顔文字", id: 914708191
