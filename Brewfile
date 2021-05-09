@@ -53,6 +53,7 @@ mas "LadioCast", id: 411213048
 mas "MemoryFreer", id: 451682720
 mas "PopClip", id: 445189367
 mas "QREncoder", id: 452695239
+mas "RunCat", id: 1429033973
 mas "Sim Daltonism", id: 693112260
 mas "SiteSucker", id: 442168834
 mas "Slack", id: 803453959
