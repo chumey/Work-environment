@@ -42,6 +42,7 @@ mas "Alarm&Timer", id: 1230538532
 mas "CheatSheet", id: 529456740
 mas "Cleaner-App", id: 1013897218
 mas "Color Picker", id: 641027709
+mas "Contrast", id: 1254981365
 mas "Display Menu", id: 549083868
 mas "Evernote", id: 406056744
 mas "Gifted", id: 771955779
