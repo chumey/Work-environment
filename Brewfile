@@ -53,7 +53,6 @@ mas "JPEGmini Lite", id: 525742250
 mas "Kindle", id: 405399194
 mas "LadioCast", id: 411213048
 mas "Magnet", id: 441258766
-mas "MemoryFreer", id: 451682720
 mas "PopClip", id: 445189367
 mas "QREncoder", id: 452695239
 mas "RunCat", id: 1429033973
